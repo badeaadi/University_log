@@ -7,9 +7,9 @@ Create a class hierarchy related to a school catalog. The minimum classes should
 * Person
   * Student
   * Employee
-     * Administrator]
+     * Administrator
      * Teacher
-		* DepartmentHead
+	* DepartmentHead
 	
 All information regarding the entities must be stored in SQL, so a static method named "create" must be used to
 fetch the data from SQL and instantiate the entity (explain why this is needed).
